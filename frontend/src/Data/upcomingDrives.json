@@ -1,0 +1,5757 @@
+{
+  "drives": [
+    {
+      "drive_id": "D1",
+      "company": "Tesla",
+      "date": "2025-03-02",
+      "minCGPA": "7.84",
+      "eligibleDepartments": [
+        "Civil",
+        "Computer Science",
+        "Electronics",
+        "Electrical",
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D2",
+      "company": "Capgemini",
+      "date": "2025-05-18",
+      "minCGPA": "6.88",
+      "eligibleDepartments": [
+        "Computer Science",
+        "Electronics",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D3",
+      "company": "Capgemini",
+      "date": "2025-06-03",
+      "minCGPA": "6.76",
+      "eligibleDepartments": [
+        "Civil",
+        "IT",
+        "Electrical",
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D4",
+      "company": "Cognizant",
+      "date": "2025-06-26",
+      "minCGPA": "6.53",
+      "eligibleDepartments": [
+        "Civil",
+        "IT",
+        "Electronics",
+        "Mechanical",
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D5",
+      "company": "Wipro",
+      "date": "2025-03-09",
+      "minCGPA": "7.40",
+      "eligibleDepartments": [
+        "Computer Science",
+        "Electronics",
+        "Mechanical",
+        "IT",
+        "Electrical",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D6",
+      "company": "TCS",
+      "date": "2025-07-28",
+      "minCGPA": "6.59",
+      "eligibleDepartments": [
+        "Mechanical",
+        "IT",
+        "Electronics",
+        "Civil",
+        "Computer Science",
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D7",
+      "company": "Wipro",
+      "date": "2025-06-25",
+      "minCGPA": "7.69",
+      "eligibleDepartments": [
+        "Civil",
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D8",
+      "company": "Infosys",
+      "date": "2025-06-06",
+      "minCGPA": "7.18",
+      "eligibleDepartments": [
+        "Civil",
+        "Electrical",
+        "Computer Science",
+        "Electronics",
+        "IT",
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D9",
+      "company": "Amazon",
+      "date": "2025-06-19",
+      "minCGPA": "6.62",
+      "eligibleDepartments": [
+        "IT",
+        "Electronics",
+        "Mechanical",
+        "Computer Science",
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D10",
+      "company": "Infosys",
+      "date": "2025-06-07",
+      "minCGPA": "6.19",
+      "eligibleDepartments": [
+        "Electrical",
+        "IT",
+        "Civil",
+        "Electronics",
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D11",
+      "company": "Infosys",
+      "date": "2025-07-17",
+      "minCGPA": "7.97",
+      "eligibleDepartments": [
+        "Electrical",
+        "IT",
+        "Computer Science",
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D12",
+      "company": "Infosys",
+      "date": "2025-02-22",
+      "minCGPA": "6.39",
+      "eligibleDepartments": [
+        "Electrical",
+        "IT",
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D13",
+      "company": "Microsoft",
+      "date": "2025-05-14",
+      "minCGPA": "7.42",
+      "eligibleDepartments": [
+        "Electrical",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D14",
+      "company": "Accenture",
+      "date": "2025-07-13",
+      "minCGPA": "6.72",
+      "eligibleDepartments": [
+        "Civil",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D15",
+      "company": "Amazon",
+      "date": "2025-03-13",
+      "minCGPA": "6.96",
+      "eligibleDepartments": [
+        "Civil",
+        "Mechanical",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D16",
+      "company": "Wipro",
+      "date": "2025-06-18",
+      "minCGPA": "6.96",
+      "eligibleDepartments": [
+        "Mechanical",
+        "Electronics",
+        "Computer Science",
+        "Civil",
+        "IT",
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D17",
+      "company": "Google",
+      "date": "2025-04-03",
+      "minCGPA": "6.50",
+      "eligibleDepartments": [
+        "IT",
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D18",
+      "company": "Microsoft",
+      "date": "2025-06-19",
+      "minCGPA": "7.93",
+      "eligibleDepartments": [
+        "Electrical",
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D19",
+      "company": "Amazon",
+      "date": "2025-03-06",
+      "minCGPA": "7.53",
+      "eligibleDepartments": [
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D20",
+      "company": "Microsoft",
+      "date": "2025-06-01",
+      "minCGPA": "6.52",
+      "eligibleDepartments": [
+        "Civil",
+        "Mechanical",
+        "IT",
+        "Electronics",
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D21",
+      "company": "Infosys",
+      "date": "2025-06-04",
+      "minCGPA": "6.93",
+      "eligibleDepartments": [
+        "IT",
+        "Electronics",
+        "Mechanical",
+        "Electrical",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D22",
+      "company": "Accenture",
+      "date": "2025-03-16",
+      "minCGPA": "6.31",
+      "eligibleDepartments": [
+        "IT",
+        "Electronics",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D23",
+      "company": "Infosys",
+      "date": "2025-03-06",
+      "minCGPA": "7.72",
+      "eligibleDepartments": [
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D24",
+      "company": "TCS",
+      "date": "2025-02-13",
+      "minCGPA": "6.59",
+      "eligibleDepartments": [
+        "Electronics",
+        "Computer Science",
+        "Mechanical",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D25",
+      "company": "Wipro",
+      "date": "2025-07-04",
+      "minCGPA": "7.66",
+      "eligibleDepartments": [
+        "IT",
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D26",
+      "company": "TCS",
+      "date": "2025-07-20",
+      "minCGPA": "7.96",
+      "eligibleDepartments": [
+        "Electronics",
+        "Civil",
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D27",
+      "company": "Infosys",
+      "date": "2025-07-24",
+      "minCGPA": "7.30",
+      "eligibleDepartments": [
+        "Mechanical",
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D28",
+      "company": "Accenture",
+      "date": "2025-02-28",
+      "minCGPA": "6.80",
+      "eligibleDepartments": [
+        "Mechanical",
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D29",
+      "company": "Cognizant",
+      "date": "2025-05-03",
+      "minCGPA": "6.74",
+      "eligibleDepartments": [
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D30",
+      "company": "Tesla",
+      "date": "2025-02-08",
+      "minCGPA": "7.98",
+      "eligibleDepartments": [
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D31",
+      "company": "Cognizant",
+      "date": "2025-06-05",
+      "minCGPA": "7.22",
+      "eligibleDepartments": [
+        "Mechanical",
+        "Electronics",
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D32",
+      "company": "Microsoft",
+      "date": "2025-04-27",
+      "minCGPA": "7.03",
+      "eligibleDepartments": [
+        "Electrical",
+        "Computer Science",
+        "Electronics",
+        "Mechanical",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D33",
+      "company": "Amazon",
+      "date": "2025-02-06",
+      "minCGPA": "6.22",
+      "eligibleDepartments": [
+        "Electrical",
+        "Computer Science",
+        "Civil",
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D34",
+      "company": "Wipro",
+      "date": "2025-06-18",
+      "minCGPA": "6.31",
+      "eligibleDepartments": [
+        "Mechanical",
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D35",
+      "company": "Accenture",
+      "date": "2025-07-11",
+      "minCGPA": "6.14",
+      "eligibleDepartments": [
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D36",
+      "company": "TCS",
+      "date": "2025-03-26",
+      "minCGPA": "6.98",
+      "eligibleDepartments": [
+        "Electrical",
+        "Mechanical",
+        "IT",
+        "Electronics",
+        "Civil",
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D37",
+      "company": "Infosys",
+      "date": "2025-02-24",
+      "minCGPA": "6.51",
+      "eligibleDepartments": [
+        "Electrical",
+        "Mechanical",
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D38",
+      "company": "Wipro",
+      "date": "2025-05-08",
+      "minCGPA": "7.46",
+      "eligibleDepartments": [
+        "Electronics",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D39",
+      "company": "Amazon",
+      "date": "2025-02-13",
+      "minCGPA": "7.70",
+      "eligibleDepartments": [
+        "IT",
+        "Computer Science",
+        "Electronics",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D40",
+      "company": "Accenture",
+      "date": "2025-04-24",
+      "minCGPA": "7.17",
+      "eligibleDepartments": [
+        "Electronics",
+        "Computer Science",
+        "Civil",
+        "Mechanical",
+        "Electrical",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D41",
+      "company": "Cognizant",
+      "date": "2025-03-14",
+      "minCGPA": "7.76",
+      "eligibleDepartments": [
+        "IT",
+        "Civil",
+        "Mechanical",
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D42",
+      "company": "Amazon",
+      "date": "2025-07-23",
+      "minCGPA": "7.00",
+      "eligibleDepartments": [
+        "Electronics",
+        "Civil",
+        "Computer Science",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D43",
+      "company": "Infosys",
+      "date": "2025-07-12",
+      "minCGPA": "6.31",
+      "eligibleDepartments": [
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D44",
+      "company": "Amazon",
+      "date": "2025-04-12",
+      "minCGPA": "7.24",
+      "eligibleDepartments": [
+        "IT",
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D45",
+      "company": "TCS",
+      "date": "2025-06-10",
+      "minCGPA": "7.11",
+      "eligibleDepartments": [
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D46",
+      "company": "Wipro",
+      "date": "2025-04-05",
+      "minCGPA": "7.31",
+      "eligibleDepartments": [
+        "IT",
+        "Electrical",
+        "Civil",
+        "Electronics",
+        "Computer Science",
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D47",
+      "company": "Cognizant",
+      "date": "2025-05-20",
+      "minCGPA": "6.97",
+      "eligibleDepartments": [
+        "IT",
+        "Mechanical",
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D48",
+      "company": "Infosys",
+      "date": "2025-07-22",
+      "minCGPA": "7.26",
+      "eligibleDepartments": [
+        "IT",
+        "Electronics",
+        "Mechanical",
+        "Computer Science",
+        "Electrical",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D49",
+      "company": "Infosys",
+      "date": "2025-05-19",
+      "minCGPA": "6.59",
+      "eligibleDepartments": [
+        "Electronics",
+        "IT",
+        "Electrical",
+        "Civil",
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D50",
+      "company": "Google",
+      "date": "2025-05-28",
+      "minCGPA": "7.77",
+      "eligibleDepartments": [
+        "Mechanical",
+        "Computer Science",
+        "Civil",
+        "Electrical",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D51",
+      "company": "Infosys",
+      "date": "2025-07-21",
+      "minCGPA": "6.01",
+      "eligibleDepartments": [
+        "Mechanical",
+        "Electronics",
+        "Computer Science",
+        "Civil",
+        "Electrical",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D52",
+      "company": "Infosys",
+      "date": "2025-04-01",
+      "minCGPA": "6.25",
+      "eligibleDepartments": [
+        "Computer Science",
+        "Electronics",
+        "Electrical",
+        "Mechanical",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D53",
+      "company": "Tesla",
+      "date": "2025-06-18",
+      "minCGPA": "6.02",
+      "eligibleDepartments": [
+        "Mechanical",
+        "Civil",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D54",
+      "company": "Amazon",
+      "date": "2025-05-27",
+      "minCGPA": "6.19",
+      "eligibleDepartments": [
+        "Computer Science",
+        "Mechanical",
+        "Electronics",
+        "Civil",
+        "IT",
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D55",
+      "company": "Google",
+      "date": "2025-04-07",
+      "minCGPA": "7.18",
+      "eligibleDepartments": [
+        "Computer Science",
+        "Mechanical",
+        "Electronics",
+        "Civil",
+        "IT",
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D56",
+      "company": "Tesla",
+      "date": "2025-02-22",
+      "minCGPA": "7.72",
+      "eligibleDepartments": [
+        "Computer Science",
+        "Civil",
+        "Electrical",
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D57",
+      "company": "Google",
+      "date": "2025-03-05",
+      "minCGPA": "7.36",
+      "eligibleDepartments": [
+        "Computer Science",
+        "Mechanical",
+        "Electrical",
+        "Civil",
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D58",
+      "company": "Cognizant",
+      "date": "2025-03-09",
+      "minCGPA": "7.81",
+      "eligibleDepartments": [
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D59",
+      "company": "Accenture",
+      "date": "2025-07-19",
+      "minCGPA": "6.34",
+      "eligibleDepartments": [
+        "Computer Science",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D60",
+      "company": "Wipro",
+      "date": "2025-02-21",
+      "minCGPA": "6.77",
+      "eligibleDepartments": [
+        "Civil",
+        "IT",
+        "Computer Science",
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D61",
+      "company": "Accenture",
+      "date": "2025-05-14",
+      "minCGPA": "7.92",
+      "eligibleDepartments": [
+        "Electrical",
+        "Mechanical",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D62",
+      "company": "Amazon",
+      "date": "2025-03-06",
+      "minCGPA": "7.80",
+      "eligibleDepartments": [
+        "Mechanical",
+        "Electrical",
+        "IT",
+        "Computer Science",
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D63",
+      "company": "Cognizant",
+      "date": "2025-05-17",
+      "minCGPA": "7.09",
+      "eligibleDepartments": [
+        "Electronics",
+        "Electrical",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D64",
+      "company": "Google",
+      "date": "2025-03-03",
+      "minCGPA": "8.00",
+      "eligibleDepartments": [
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D65",
+      "company": "Microsoft",
+      "date": "2025-04-08",
+      "minCGPA": "7.91",
+      "eligibleDepartments": [
+        "Electronics",
+        "Mechanical",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D66",
+      "company": "Capgemini",
+      "date": "2025-06-27",
+      "minCGPA": "7.16",
+      "eligibleDepartments": [
+        "IT",
+        "Electrical",
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D67",
+      "company": "Wipro",
+      "date": "2025-06-05",
+      "minCGPA": "7.19",
+      "eligibleDepartments": [
+        "Mechanical",
+        "Computer Science",
+        "IT",
+        "Electrical",
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D68",
+      "company": "Infosys",
+      "date": "2025-05-12",
+      "minCGPA": "6.52",
+      "eligibleDepartments": [
+        "Computer Science",
+        "Civil",
+        "IT",
+        "Electrical",
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D69",
+      "company": "Microsoft",
+      "date": "2025-05-16",
+      "minCGPA": "6.61",
+      "eligibleDepartments": [
+        "Mechanical",
+        "Electronics",
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D70",
+      "company": "Wipro",
+      "date": "2025-03-22",
+      "minCGPA": "6.54",
+      "eligibleDepartments": [
+        "Civil",
+        "IT",
+        "Electrical",
+        "Electronics",
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D71",
+      "company": "Cognizant",
+      "date": "2025-06-15",
+      "minCGPA": "6.45",
+      "eligibleDepartments": [
+        "IT",
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D72",
+      "company": "Cognizant",
+      "date": "2025-04-16",
+      "minCGPA": "7.10",
+      "eligibleDepartments": [
+        "Electrical",
+        "Mechanical",
+        "Civil",
+        "Computer Science",
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D73",
+      "company": "Tesla",
+      "date": "2025-06-07",
+      "minCGPA": "6.06",
+      "eligibleDepartments": [
+        "Electronics",
+        "Computer Science",
+        "IT",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D74",
+      "company": "Accenture",
+      "date": "2025-05-19",
+      "minCGPA": "7.20",
+      "eligibleDepartments": [
+        "IT",
+        "Civil",
+        "Electrical",
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D75",
+      "company": "Infosys",
+      "date": "2025-04-22",
+      "minCGPA": "6.84",
+      "eligibleDepartments": [
+        "IT",
+        "Civil",
+        "Computer Science",
+        "Electronics",
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D76",
+      "company": "Wipro",
+      "date": "2025-06-12",
+      "minCGPA": "7.52",
+      "eligibleDepartments": [
+        "IT",
+        "Civil",
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D77",
+      "company": "Accenture",
+      "date": "2025-02-14",
+      "minCGPA": "6.75",
+      "eligibleDepartments": [
+        "Electronics",
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D78",
+      "company": "Tesla",
+      "date": "2025-02-10",
+      "minCGPA": "7.55",
+      "eligibleDepartments": [
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D79",
+      "company": "Wipro",
+      "date": "2025-06-06",
+      "minCGPA": "7.98",
+      "eligibleDepartments": [
+        "Civil",
+        "Computer Science",
+        "Mechanical",
+        "Electronics",
+        "IT",
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D80",
+      "company": "Tesla",
+      "date": "2025-04-10",
+      "minCGPA": "6.29",
+      "eligibleDepartments": [
+        "Electronics",
+        "Mechanical",
+        "Electrical",
+        "IT",
+        "Computer Science",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D81",
+      "company": "Microsoft",
+      "date": "2025-07-11",
+      "minCGPA": "7.17",
+      "eligibleDepartments": [
+        "Electrical",
+        "Civil",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D82",
+      "company": "Wipro",
+      "date": "2025-04-22",
+      "minCGPA": "6.70",
+      "eligibleDepartments": [
+        "IT",
+        "Computer Science",
+        "Electronics",
+        "Civil",
+        "Mechanical",
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D83",
+      "company": "Amazon",
+      "date": "2025-04-14",
+      "minCGPA": "6.74",
+      "eligibleDepartments": [
+        "Civil",
+        "Mechanical",
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D84",
+      "company": "Tesla",
+      "date": "2025-06-17",
+      "minCGPA": "6.07",
+      "eligibleDepartments": [
+        "Electronics",
+        "Electrical",
+        "Computer Science",
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D85",
+      "company": "Amazon",
+      "date": "2025-05-18",
+      "minCGPA": "7.15",
+      "eligibleDepartments": [
+        "Electronics",
+        "Electrical",
+        "Computer Science",
+        "Mechanical",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D86",
+      "company": "Infosys",
+      "date": "2025-03-02",
+      "minCGPA": "7.38",
+      "eligibleDepartments": [
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D87",
+      "company": "Cognizant",
+      "date": "2025-07-06",
+      "minCGPA": "7.67",
+      "eligibleDepartments": [
+        "Electronics",
+        "Mechanical",
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D88",
+      "company": "Capgemini",
+      "date": "2025-03-28",
+      "minCGPA": "7.11",
+      "eligibleDepartments": [
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D89",
+      "company": "Tesla",
+      "date": "2025-05-22",
+      "minCGPA": "7.38",
+      "eligibleDepartments": [
+        "Electrical",
+        "Civil",
+        "IT",
+        "Computer Science",
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D90",
+      "company": "Microsoft",
+      "date": "2025-02-13",
+      "minCGPA": "6.28",
+      "eligibleDepartments": [
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D91",
+      "company": "Microsoft",
+      "date": "2025-02-16",
+      "minCGPA": "7.09",
+      "eligibleDepartments": [
+        "IT",
+        "Mechanical",
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D92",
+      "company": "TCS",
+      "date": "2025-06-23",
+      "minCGPA": "6.91",
+      "eligibleDepartments": [
+        "Mechanical",
+        "IT",
+        "Electronics",
+        "Computer Science",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D93",
+      "company": "Accenture",
+      "date": "2025-07-26",
+      "minCGPA": "6.09",
+      "eligibleDepartments": [
+        "Electronics",
+        "IT",
+        "Mechanical",
+        "Computer Science",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D94",
+      "company": "Capgemini",
+      "date": "2025-06-03",
+      "minCGPA": "7.63",
+      "eligibleDepartments": [
+        "Computer Science",
+        "IT",
+        "Electrical",
+        "Electronics",
+        "Mechanical",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D95",
+      "company": "Accenture",
+      "date": "2025-04-24",
+      "minCGPA": "7.29",
+      "eligibleDepartments": [
+        "Mechanical",
+        "Electronics",
+        "Electrical",
+        "IT",
+        "Computer Science",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D96",
+      "company": "Microsoft",
+      "date": "2025-05-27",
+      "minCGPA": "7.22",
+      "eligibleDepartments": [
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D97",
+      "company": "Cognizant",
+      "date": "2025-06-13",
+      "minCGPA": "6.13",
+      "eligibleDepartments": [
+        "Mechanical",
+        "Electronics",
+        "Computer Science",
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D98",
+      "company": "Amazon",
+      "date": "2025-06-02",
+      "minCGPA": "6.14",
+      "eligibleDepartments": [
+        "IT",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D99",
+      "company": "TCS",
+      "date": "2025-04-13",
+      "minCGPA": "6.23",
+      "eligibleDepartments": [
+        "IT",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D100",
+      "company": "Wipro",
+      "date": "2025-07-11",
+      "minCGPA": "6.14",
+      "eligibleDepartments": [
+        "Electronics",
+        "Computer Science",
+        "Electrical",
+        "Mechanical",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D101",
+      "company": "Wipro",
+      "date": "2025-06-09",
+      "minCGPA": "7.31",
+      "eligibleDepartments": [
+        "Electrical",
+        "Mechanical",
+        "Electronics",
+        "Computer Science",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D102",
+      "company": "Cognizant",
+      "date": "2025-05-14",
+      "minCGPA": "7.25",
+      "eligibleDepartments": [
+        "Electrical",
+        "Electronics",
+        "Civil",
+        "IT",
+        "Mechanical",
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D103",
+      "company": "Accenture",
+      "date": "2025-04-08",
+      "minCGPA": "6.87",
+      "eligibleDepartments": [
+        "Electrical",
+        "Computer Science",
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D104",
+      "company": "Infosys",
+      "date": "2025-03-16",
+      "minCGPA": "7.03",
+      "eligibleDepartments": [
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D105",
+      "company": "Cognizant",
+      "date": "2025-03-12",
+      "minCGPA": "7.41",
+      "eligibleDepartments": [
+        "IT",
+        "Computer Science",
+        "Mechanical",
+        "Electronics",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D106",
+      "company": "TCS",
+      "date": "2025-06-16",
+      "minCGPA": "6.80",
+      "eligibleDepartments": [
+        "Mechanical",
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D107",
+      "company": "Wipro",
+      "date": "2025-03-18",
+      "minCGPA": "7.92",
+      "eligibleDepartments": [
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D108",
+      "company": "Cognizant",
+      "date": "2025-03-14",
+      "minCGPA": "7.29",
+      "eligibleDepartments": [
+        "Electronics",
+        "Mechanical",
+        "Civil",
+        "Computer Science",
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D109",
+      "company": "Accenture",
+      "date": "2025-07-13",
+      "minCGPA": "7.74",
+      "eligibleDepartments": [
+        "Computer Science",
+        "Electrical",
+        "Electronics",
+        "Mechanical",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D110",
+      "company": "TCS",
+      "date": "2025-03-14",
+      "minCGPA": "7.75",
+      "eligibleDepartments": [
+        "Mechanical",
+        "Civil",
+        "Computer Science",
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D111",
+      "company": "Accenture",
+      "date": "2025-05-24",
+      "minCGPA": "6.84",
+      "eligibleDepartments": [
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D112",
+      "company": "Google",
+      "date": "2025-03-22",
+      "minCGPA": "7.40",
+      "eligibleDepartments": [
+        "Mechanical",
+        "Civil",
+        "Electronics",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D113",
+      "company": "Accenture",
+      "date": "2025-02-07",
+      "minCGPA": "7.18",
+      "eligibleDepartments": [
+        "Mechanical",
+        "Civil",
+        "Electronics",
+        "Computer Science",
+        "IT",
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D114",
+      "company": "Microsoft",
+      "date": "2025-02-19",
+      "minCGPA": "7.38",
+      "eligibleDepartments": [
+        "Electronics",
+        "Civil",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D115",
+      "company": "Microsoft",
+      "date": "2025-02-01",
+      "minCGPA": "6.81",
+      "eligibleDepartments": [
+        "Electronics",
+        "Mechanical",
+        "Computer Science",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D116",
+      "company": "TCS",
+      "date": "2025-03-28",
+      "minCGPA": "6.27",
+      "eligibleDepartments": [
+        "Civil",
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D117",
+      "company": "Accenture",
+      "date": "2025-04-07",
+      "minCGPA": "7.19",
+      "eligibleDepartments": [
+        "Electronics",
+        "Mechanical",
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D118",
+      "company": "Accenture",
+      "date": "2025-05-15",
+      "minCGPA": "7.98",
+      "eligibleDepartments": [
+        "Mechanical",
+        "Electronics",
+        "Electrical",
+        "Computer Science",
+        "Civil",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D119",
+      "company": "Cognizant",
+      "date": "2025-03-13",
+      "minCGPA": "7.38",
+      "eligibleDepartments": [
+        "Civil",
+        "Electrical",
+        "Mechanical",
+        "Electronics",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D120",
+      "company": "Wipro",
+      "date": "2025-05-21",
+      "minCGPA": "7.25",
+      "eligibleDepartments": [
+        "Mechanical",
+        "Electrical",
+        "Electronics",
+        "IT",
+        "Computer Science",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D121",
+      "company": "Accenture",
+      "date": "2025-03-25",
+      "minCGPA": "7.59",
+      "eligibleDepartments": [
+        "Civil",
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D122",
+      "company": "Capgemini",
+      "date": "2025-04-28",
+      "minCGPA": "7.48",
+      "eligibleDepartments": [
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D123",
+      "company": "Cognizant",
+      "date": "2025-02-02",
+      "minCGPA": "6.81",
+      "eligibleDepartments": [
+        "Electronics",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D124",
+      "company": "Wipro",
+      "date": "2025-04-16",
+      "minCGPA": "7.38",
+      "eligibleDepartments": [
+        "Electronics",
+        "Computer Science",
+        "IT",
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D125",
+      "company": "Google",
+      "date": "2025-02-03",
+      "minCGPA": "6.32",
+      "eligibleDepartments": [
+        "Electronics",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D126",
+      "company": "Capgemini",
+      "date": "2025-02-03",
+      "minCGPA": "6.03",
+      "eligibleDepartments": [
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D127",
+      "company": "Wipro",
+      "date": "2025-05-28",
+      "minCGPA": "6.73",
+      "eligibleDepartments": [
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D128",
+      "company": "Amazon",
+      "date": "2025-03-18",
+      "minCGPA": "7.76",
+      "eligibleDepartments": [
+        "Computer Science",
+        "Electronics",
+        "Civil",
+        "IT",
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D129",
+      "company": "TCS",
+      "date": "2025-05-20",
+      "minCGPA": "7.22",
+      "eligibleDepartments": [
+        "Electronics",
+        "Computer Science",
+        "IT",
+        "Electrical",
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D130",
+      "company": "TCS",
+      "date": "2025-07-05",
+      "minCGPA": "6.48",
+      "eligibleDepartments": [
+        "Electronics",
+        "Computer Science",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D131",
+      "company": "Wipro",
+      "date": "2025-05-06",
+      "minCGPA": "6.61",
+      "eligibleDepartments": [
+        "Computer Science",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D132",
+      "company": "Google",
+      "date": "2025-06-19",
+      "minCGPA": "7.44",
+      "eligibleDepartments": [
+        "Mechanical",
+        "Civil",
+        "Electronics",
+        "Computer Science",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D133",
+      "company": "Cognizant",
+      "date": "2025-02-25",
+      "minCGPA": "6.93",
+      "eligibleDepartments": [
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D134",
+      "company": "Cognizant",
+      "date": "2025-06-10",
+      "minCGPA": "7.00",
+      "eligibleDepartments": [
+        "IT",
+        "Electrical",
+        "Mechanical",
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D135",
+      "company": "Capgemini",
+      "date": "2025-03-04",
+      "minCGPA": "7.30",
+      "eligibleDepartments": [
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D136",
+      "company": "Google",
+      "date": "2025-05-17",
+      "minCGPA": "6.78",
+      "eligibleDepartments": [
+        "Computer Science",
+        "Electrical",
+        "IT",
+        "Civil",
+        "Mechanical",
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D137",
+      "company": "Amazon",
+      "date": "2025-03-04",
+      "minCGPA": "6.36",
+      "eligibleDepartments": [
+        "Electronics",
+        "Electrical",
+        "IT",
+        "Civil",
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D138",
+      "company": "Infosys",
+      "date": "2025-03-24",
+      "minCGPA": "6.43",
+      "eligibleDepartments": [
+        "Mechanical",
+        "Electronics",
+        "Electrical",
+        "IT",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D139",
+      "company": "Tesla",
+      "date": "2025-07-19",
+      "minCGPA": "6.44",
+      "eligibleDepartments": [
+        "Civil",
+        "Computer Science",
+        "Electronics",
+        "Electrical",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D140",
+      "company": "Tesla",
+      "date": "2025-07-11",
+      "minCGPA": "7.09",
+      "eligibleDepartments": [
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D141",
+      "company": "Microsoft",
+      "date": "2025-05-16",
+      "minCGPA": "6.96",
+      "eligibleDepartments": [
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D142",
+      "company": "Amazon",
+      "date": "2025-05-10",
+      "minCGPA": "6.82",
+      "eligibleDepartments": [
+        "Mechanical",
+        "Civil",
+        "Computer Science",
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D143",
+      "company": "Capgemini",
+      "date": "2025-06-12",
+      "minCGPA": "7.39",
+      "eligibleDepartments": [
+        "Electronics",
+        "Computer Science",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D144",
+      "company": "Wipro",
+      "date": "2025-07-21",
+      "minCGPA": "7.80",
+      "eligibleDepartments": [
+        "Computer Science",
+        "IT",
+        "Civil",
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D145",
+      "company": "Tesla",
+      "date": "2025-06-15",
+      "minCGPA": "7.23",
+      "eligibleDepartments": [
+        "Computer Science",
+        "IT",
+        "Electronics",
+        "Mechanical",
+        "Electrical",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D146",
+      "company": "Google",
+      "date": "2025-03-10",
+      "minCGPA": "6.90",
+      "eligibleDepartments": [
+        "Computer Science",
+        "IT",
+        "Electrical",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D147",
+      "company": "Amazon",
+      "date": "2025-03-10",
+      "minCGPA": "7.24",
+      "eligibleDepartments": [
+        "Electronics",
+        "Computer Science",
+        "Mechanical",
+        "IT",
+        "Electrical",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D148",
+      "company": "Capgemini",
+      "date": "2025-07-02",
+      "minCGPA": "7.63",
+      "eligibleDepartments": [
+        "Electronics",
+        "Computer Science",
+        "IT",
+        "Electrical",
+        "Civil",
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D149",
+      "company": "Amazon",
+      "date": "2025-02-02",
+      "minCGPA": "7.33",
+      "eligibleDepartments": [
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D150",
+      "company": "Infosys",
+      "date": "2025-03-19",
+      "minCGPA": "6.13",
+      "eligibleDepartments": [
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D151",
+      "company": "Tesla",
+      "date": "2025-04-22",
+      "minCGPA": "7.92",
+      "eligibleDepartments": [
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D152",
+      "company": "Tesla",
+      "date": "2025-02-14",
+      "minCGPA": "7.88",
+      "eligibleDepartments": [
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D153",
+      "company": "Amazon",
+      "date": "2025-07-09",
+      "minCGPA": "6.70",
+      "eligibleDepartments": [
+        "Computer Science",
+        "IT",
+        "Civil",
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D154",
+      "company": "Wipro",
+      "date": "2025-07-24",
+      "minCGPA": "7.03",
+      "eligibleDepartments": [
+        "Computer Science",
+        "IT",
+        "Electronics",
+        "Electrical",
+        "Civil",
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D155",
+      "company": "Amazon",
+      "date": "2025-07-12",
+      "minCGPA": "6.80",
+      "eligibleDepartments": [
+        "Electronics",
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D156",
+      "company": "Amazon",
+      "date": "2025-02-02",
+      "minCGPA": "7.41",
+      "eligibleDepartments": [
+        "Electronics",
+        "IT",
+        "Civil",
+        "Electrical",
+        "Mechanical",
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D157",
+      "company": "Wipro",
+      "date": "2025-07-25",
+      "minCGPA": "6.06",
+      "eligibleDepartments": [
+        "Electrical",
+        "Civil",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D158",
+      "company": "Tesla",
+      "date": "2025-04-14",
+      "minCGPA": "6.02",
+      "eligibleDepartments": [
+        "IT",
+        "Computer Science",
+        "Mechanical",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D159",
+      "company": "Accenture",
+      "date": "2025-07-19",
+      "minCGPA": "6.35",
+      "eligibleDepartments": [
+        "IT",
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D160",
+      "company": "Tesla",
+      "date": "2025-02-23",
+      "minCGPA": "7.34",
+      "eligibleDepartments": [
+        "Mechanical",
+        "Civil",
+        "Electrical",
+        "IT",
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D161",
+      "company": "Cognizant",
+      "date": "2025-02-21",
+      "minCGPA": "7.22",
+      "eligibleDepartments": [
+        "IT",
+        "Electrical",
+        "Civil",
+        "Mechanical",
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D162",
+      "company": "TCS",
+      "date": "2025-02-07",
+      "minCGPA": "7.02",
+      "eligibleDepartments": [
+        "Civil",
+        "IT",
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D163",
+      "company": "Cognizant",
+      "date": "2025-03-18",
+      "minCGPA": "6.91",
+      "eligibleDepartments": [
+        "Mechanical",
+        "IT",
+        "Electronics",
+        "Electrical",
+        "Computer Science",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D164",
+      "company": "Tesla",
+      "date": "2025-04-20",
+      "minCGPA": "7.92",
+      "eligibleDepartments": [
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D165",
+      "company": "Infosys",
+      "date": "2025-03-21",
+      "minCGPA": "7.46",
+      "eligibleDepartments": [
+        "Computer Science",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D166",
+      "company": "Capgemini",
+      "date": "2025-06-13",
+      "minCGPA": "6.59",
+      "eligibleDepartments": [
+        "IT",
+        "Computer Science",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D167",
+      "company": "Accenture",
+      "date": "2025-02-10",
+      "minCGPA": "6.33",
+      "eligibleDepartments": [
+        "IT",
+        "Electrical",
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D168",
+      "company": "Cognizant",
+      "date": "2025-06-10",
+      "minCGPA": "6.63",
+      "eligibleDepartments": [
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D169",
+      "company": "Capgemini",
+      "date": "2025-07-21",
+      "minCGPA": "6.64",
+      "eligibleDepartments": [
+        "Electronics",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D170",
+      "company": "Tesla",
+      "date": "2025-02-09",
+      "minCGPA": "6.26",
+      "eligibleDepartments": [
+        "Electronics",
+        "Mechanical",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D171",
+      "company": "Capgemini",
+      "date": "2025-04-23",
+      "minCGPA": "7.03",
+      "eligibleDepartments": [
+        "Electrical",
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D172",
+      "company": "Microsoft",
+      "date": "2025-05-17",
+      "minCGPA": "6.62",
+      "eligibleDepartments": [
+        "Electrical",
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D173",
+      "company": "Capgemini",
+      "date": "2025-05-05",
+      "minCGPA": "6.95",
+      "eligibleDepartments": [
+        "Computer Science",
+        "Mechanical",
+        "Electronics",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D174",
+      "company": "Infosys",
+      "date": "2025-06-08",
+      "minCGPA": "6.64",
+      "eligibleDepartments": [
+        "Electrical",
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D175",
+      "company": "TCS",
+      "date": "2025-05-25",
+      "minCGPA": "7.08",
+      "eligibleDepartments": [
+        "Electronics",
+        "Computer Science",
+        "Mechanical",
+        "IT",
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D176",
+      "company": "Infosys",
+      "date": "2025-07-23",
+      "minCGPA": "6.52",
+      "eligibleDepartments": [
+        "Mechanical",
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D177",
+      "company": "Infosys",
+      "date": "2025-03-19",
+      "minCGPA": "6.74",
+      "eligibleDepartments": [
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D178",
+      "company": "Microsoft",
+      "date": "2025-06-01",
+      "minCGPA": "7.56",
+      "eligibleDepartments": [
+        "Computer Science",
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D179",
+      "company": "Tesla",
+      "date": "2025-07-22",
+      "minCGPA": "7.02",
+      "eligibleDepartments": [
+        "Computer Science",
+        "Electronics",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D180",
+      "company": "Microsoft",
+      "date": "2025-07-11",
+      "minCGPA": "7.99",
+      "eligibleDepartments": [
+        "IT",
+        "Electrical",
+        "Civil",
+        "Electronics",
+        "Mechanical",
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D181",
+      "company": "Amazon",
+      "date": "2025-04-01",
+      "minCGPA": "6.97",
+      "eligibleDepartments": [
+        "IT",
+        "Mechanical",
+        "Electrical",
+        "Civil",
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D182",
+      "company": "Microsoft",
+      "date": "2025-05-28",
+      "minCGPA": "7.92",
+      "eligibleDepartments": [
+        "IT",
+        "Mechanical",
+        "Electrical",
+        "Civil",
+        "Computer Science",
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D183",
+      "company": "Microsoft",
+      "date": "2025-06-27",
+      "minCGPA": "6.13",
+      "eligibleDepartments": [
+        "Civil",
+        "IT",
+        "Computer Science",
+        "Mechanical",
+        "Electrical",
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D184",
+      "company": "Capgemini",
+      "date": "2025-02-14",
+      "minCGPA": "7.04",
+      "eligibleDepartments": [
+        "Computer Science",
+        "IT",
+        "Electrical",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D185",
+      "company": "Wipro",
+      "date": "2025-04-16",
+      "minCGPA": "7.22",
+      "eligibleDepartments": [
+        "Civil",
+        "Computer Science",
+        "Electronics",
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D186",
+      "company": "TCS",
+      "date": "2025-06-21",
+      "minCGPA": "6.82",
+      "eligibleDepartments": [
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D187",
+      "company": "TCS",
+      "date": "2025-06-25",
+      "minCGPA": "7.75",
+      "eligibleDepartments": [
+        "Civil",
+        "Electronics",
+        "Electrical",
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D188",
+      "company": "Google",
+      "date": "2025-04-10",
+      "minCGPA": "7.83",
+      "eligibleDepartments": [
+        "Electrical",
+        "Mechanical",
+        "Electronics",
+        "Civil",
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D189",
+      "company": "Google",
+      "date": "2025-05-26",
+      "minCGPA": "6.84",
+      "eligibleDepartments": [
+        "Computer Science",
+        "Civil",
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D190",
+      "company": "Google",
+      "date": "2025-03-12",
+      "minCGPA": "7.31",
+      "eligibleDepartments": [
+        "Computer Science",
+        "Civil",
+        "Electronics",
+        "IT",
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D191",
+      "company": "TCS",
+      "date": "2025-06-28",
+      "minCGPA": "6.96",
+      "eligibleDepartments": [
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D192",
+      "company": "TCS",
+      "date": "2025-02-19",
+      "minCGPA": "6.29",
+      "eligibleDepartments": [
+        "Electronics",
+        "Civil",
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D193",
+      "company": "Infosys",
+      "date": "2025-07-11",
+      "minCGPA": "7.26",
+      "eligibleDepartments": [
+        "Computer Science",
+        "Mechanical",
+        "Electrical",
+        "Civil",
+        "Electronics",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D194",
+      "company": "Wipro",
+      "date": "2025-07-25",
+      "minCGPA": "7.63",
+      "eligibleDepartments": [
+        "Mechanical",
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D195",
+      "company": "Accenture",
+      "date": "2025-05-03",
+      "minCGPA": "6.31",
+      "eligibleDepartments": [
+        "Electronics",
+        "IT",
+        "Computer Science",
+        "Electrical",
+        "Mechanical",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D196",
+      "company": "Google",
+      "date": "2025-03-18",
+      "minCGPA": "6.84",
+      "eligibleDepartments": [
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D197",
+      "company": "Capgemini",
+      "date": "2025-07-06",
+      "minCGPA": "7.09",
+      "eligibleDepartments": [
+        "IT",
+        "Mechanical",
+        "Electrical",
+        "Civil",
+        "Electronics",
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D198",
+      "company": "Tesla",
+      "date": "2025-06-12",
+      "minCGPA": "6.06",
+      "eligibleDepartments": [
+        "Mechanical",
+        "IT",
+        "Electronics",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D199",
+      "company": "Wipro",
+      "date": "2025-04-12",
+      "minCGPA": "6.96",
+      "eligibleDepartments": [
+        "Computer Science",
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D200",
+      "company": "TCS",
+      "date": "2025-02-22",
+      "minCGPA": "7.49",
+      "eligibleDepartments": [
+        "Computer Science",
+        "Electronics",
+        "Civil",
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D201",
+      "company": "TCS",
+      "date": "2025-05-07",
+      "minCGPA": "7.92",
+      "eligibleDepartments": [
+        "Computer Science",
+        "Electronics",
+        "Electrical",
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D202",
+      "company": "Wipro",
+      "date": "2025-05-12",
+      "minCGPA": "6.30",
+      "eligibleDepartments": [
+        "Computer Science",
+        "Mechanical",
+        "Electronics",
+        "IT",
+        "Electrical",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D203",
+      "company": "Microsoft",
+      "date": "2025-06-23",
+      "minCGPA": "6.14",
+      "eligibleDepartments": [
+        "Electrical",
+        "Electronics",
+        "Mechanical",
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D204",
+      "company": "Google",
+      "date": "2025-06-26",
+      "minCGPA": "7.75",
+      "eligibleDepartments": [
+        "Electrical",
+        "Computer Science",
+        "Mechanical",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D205",
+      "company": "TCS",
+      "date": "2025-02-02",
+      "minCGPA": "7.60",
+      "eligibleDepartments": [
+        "Electrical",
+        "Computer Science",
+        "Electronics",
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D206",
+      "company": "Accenture",
+      "date": "2025-07-22",
+      "minCGPA": "7.17",
+      "eligibleDepartments": [
+        "Electronics",
+        "IT",
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D207",
+      "company": "Tesla",
+      "date": "2025-04-14",
+      "minCGPA": "7.17",
+      "eligibleDepartments": [
+        "IT",
+        "Electronics",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D208",
+      "company": "Wipro",
+      "date": "2025-05-23",
+      "minCGPA": "6.29",
+      "eligibleDepartments": [
+        "Computer Science",
+        "Electrical",
+        "Civil",
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D209",
+      "company": "Google",
+      "date": "2025-06-21",
+      "minCGPA": "7.75",
+      "eligibleDepartments": [
+        "Electronics",
+        "Computer Science",
+        "Electrical",
+        "IT",
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D210",
+      "company": "Capgemini",
+      "date": "2025-07-17",
+      "minCGPA": "7.87",
+      "eligibleDepartments": [
+        "Civil",
+        "Mechanical",
+        "IT",
+        "Electrical",
+        "Computer Science",
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D211",
+      "company": "Cognizant",
+      "date": "2025-05-02",
+      "minCGPA": "6.22",
+      "eligibleDepartments": [
+        "Civil",
+        "Computer Science",
+        "Electrical",
+        "Mechanical",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D212",
+      "company": "Wipro",
+      "date": "2025-04-08",
+      "minCGPA": "7.13",
+      "eligibleDepartments": [
+        "Electrical",
+        "Computer Science",
+        "Mechanical",
+        "Civil",
+        "IT",
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D213",
+      "company": "Accenture",
+      "date": "2025-07-03",
+      "minCGPA": "6.94",
+      "eligibleDepartments": [
+        "Mechanical",
+        "Electronics",
+        "Electrical",
+        "Computer Science",
+        "IT",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D214",
+      "company": "Tesla",
+      "date": "2025-05-14",
+      "minCGPA": "7.67",
+      "eligibleDepartments": [
+        "Mechanical",
+        "Electronics",
+        "IT",
+        "Civil",
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D215",
+      "company": "Cognizant",
+      "date": "2025-05-12",
+      "minCGPA": "7.79",
+      "eligibleDepartments": [
+        "Electrical",
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D216",
+      "company": "Microsoft",
+      "date": "2025-04-01",
+      "minCGPA": "7.38",
+      "eligibleDepartments": [
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D217",
+      "company": "Wipro",
+      "date": "2025-05-13",
+      "minCGPA": "7.36",
+      "eligibleDepartments": [
+        "IT",
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D218",
+      "company": "Wipro",
+      "date": "2025-04-09",
+      "minCGPA": "7.47",
+      "eligibleDepartments": [
+        "Electronics",
+        "IT",
+        "Electrical",
+        "Computer Science",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D219",
+      "company": "Cognizant",
+      "date": "2025-06-24",
+      "minCGPA": "7.08",
+      "eligibleDepartments": [
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D220",
+      "company": "Tesla",
+      "date": "2025-06-03",
+      "minCGPA": "7.99",
+      "eligibleDepartments": [
+        "Mechanical",
+        "Computer Science",
+        "Civil",
+        "IT",
+        "Electrical",
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D221",
+      "company": "Capgemini",
+      "date": "2025-03-13",
+      "minCGPA": "6.09",
+      "eligibleDepartments": [
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D222",
+      "company": "Capgemini",
+      "date": "2025-02-07",
+      "minCGPA": "7.90",
+      "eligibleDepartments": [
+        "Computer Science",
+        "Electronics",
+        "Mechanical",
+        "Electrical",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D223",
+      "company": "Cognizant",
+      "date": "2025-06-09",
+      "minCGPA": "6.63",
+      "eligibleDepartments": [
+        "Mechanical",
+        "Computer Science",
+        "Electrical",
+        "Civil",
+        "Electronics",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D224",
+      "company": "Accenture",
+      "date": "2025-07-13",
+      "minCGPA": "7.39",
+      "eligibleDepartments": [
+        "Mechanical",
+        "Civil",
+        "IT",
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D225",
+      "company": "Tesla",
+      "date": "2025-02-04",
+      "minCGPA": "7.28",
+      "eligibleDepartments": [
+        "IT",
+        "Mechanical",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D226",
+      "company": "Amazon",
+      "date": "2025-05-14",
+      "minCGPA": "7.51",
+      "eligibleDepartments": [
+        "Electrical",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D227",
+      "company": "Microsoft",
+      "date": "2025-05-20",
+      "minCGPA": "7.15",
+      "eligibleDepartments": [
+        "Electronics",
+        "Mechanical",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D228",
+      "company": "Capgemini",
+      "date": "2025-06-24",
+      "minCGPA": "6.37",
+      "eligibleDepartments": [
+        "Electrical",
+        "Civil",
+        "Computer Science",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D229",
+      "company": "Microsoft",
+      "date": "2025-07-24",
+      "minCGPA": "6.90",
+      "eligibleDepartments": [
+        "Computer Science",
+        "IT",
+        "Electrical",
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D230",
+      "company": "Microsoft",
+      "date": "2025-04-17",
+      "minCGPA": "7.51",
+      "eligibleDepartments": [
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D231",
+      "company": "Cognizant",
+      "date": "2025-07-02",
+      "minCGPA": "7.28",
+      "eligibleDepartments": [
+        "Computer Science",
+        "Mechanical",
+        "IT",
+        "Electronics",
+        "Civil",
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D232",
+      "company": "Tesla",
+      "date": "2025-05-17",
+      "minCGPA": "7.23",
+      "eligibleDepartments": [
+        "Computer Science",
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D233",
+      "company": "Infosys",
+      "date": "2025-03-18",
+      "minCGPA": "7.38",
+      "eligibleDepartments": [
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D234",
+      "company": "Cognizant",
+      "date": "2025-05-27",
+      "minCGPA": "7.73",
+      "eligibleDepartments": [
+        "Computer Science",
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D235",
+      "company": "Infosys",
+      "date": "2025-06-11",
+      "minCGPA": "7.79",
+      "eligibleDepartments": [
+        "Electrical",
+        "Mechanical",
+        "Civil",
+        "Computer Science",
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D236",
+      "company": "Infosys",
+      "date": "2025-03-27",
+      "minCGPA": "6.01",
+      "eligibleDepartments": [
+        "Civil",
+        "Mechanical",
+        "Electronics",
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D237",
+      "company": "Amazon",
+      "date": "2025-07-14",
+      "minCGPA": "7.74",
+      "eligibleDepartments": [
+        "Electrical",
+        "IT",
+        "Electronics",
+        "Mechanical",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D238",
+      "company": "Capgemini",
+      "date": "2025-07-25",
+      "minCGPA": "7.53",
+      "eligibleDepartments": [
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D239",
+      "company": "TCS",
+      "date": "2025-05-02",
+      "minCGPA": "6.24",
+      "eligibleDepartments": [
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D240",
+      "company": "TCS",
+      "date": "2025-03-26",
+      "minCGPA": "7.60",
+      "eligibleDepartments": [
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D241",
+      "company": "Tesla",
+      "date": "2025-05-27",
+      "minCGPA": "6.10",
+      "eligibleDepartments": [
+        "Computer Science",
+        "Civil",
+        "Electronics",
+        "Mechanical",
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D242",
+      "company": "Capgemini",
+      "date": "2025-05-10",
+      "minCGPA": "7.66",
+      "eligibleDepartments": [
+        "Electronics",
+        "Civil",
+        "IT",
+        "Electrical",
+        "Mechanical",
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D243",
+      "company": "Capgemini",
+      "date": "2025-05-01",
+      "minCGPA": "7.95",
+      "eligibleDepartments": [
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D244",
+      "company": "Tesla",
+      "date": "2025-04-06",
+      "minCGPA": "6.33",
+      "eligibleDepartments": [
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D245",
+      "company": "Capgemini",
+      "date": "2025-03-01",
+      "minCGPA": "6.91",
+      "eligibleDepartments": [
+        "Electrical",
+        "Mechanical",
+        "Electronics",
+        "Computer Science",
+        "IT",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D246",
+      "company": "Google",
+      "date": "2025-04-12",
+      "minCGPA": "7.87",
+      "eligibleDepartments": [
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D247",
+      "company": "Infosys",
+      "date": "2025-03-10",
+      "minCGPA": "6.74",
+      "eligibleDepartments": [
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D248",
+      "company": "Cognizant",
+      "date": "2025-07-08",
+      "minCGPA": "7.31",
+      "eligibleDepartments": [
+        "IT",
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D249",
+      "company": "Cognizant",
+      "date": "2025-07-27",
+      "minCGPA": "7.27",
+      "eligibleDepartments": [
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D250",
+      "company": "Capgemini",
+      "date": "2025-06-03",
+      "minCGPA": "7.09",
+      "eligibleDepartments": [
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D251",
+      "company": "Cognizant",
+      "date": "2025-05-05",
+      "minCGPA": "6.44",
+      "eligibleDepartments": [
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D252",
+      "company": "Amazon",
+      "date": "2025-05-10",
+      "minCGPA": "6.90",
+      "eligibleDepartments": [
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D253",
+      "company": "Wipro",
+      "date": "2025-06-06",
+      "minCGPA": "6.58",
+      "eligibleDepartments": [
+        "Computer Science",
+        "IT",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D254",
+      "company": "Microsoft",
+      "date": "2025-05-20",
+      "minCGPA": "7.51",
+      "eligibleDepartments": [
+        "Computer Science",
+        "IT",
+        "Civil",
+        "Electrical",
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D255",
+      "company": "Capgemini",
+      "date": "2025-04-16",
+      "minCGPA": "7.26",
+      "eligibleDepartments": [
+        "IT",
+        "Electrical",
+        "Electronics",
+        "Mechanical",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D256",
+      "company": "Accenture",
+      "date": "2025-07-11",
+      "minCGPA": "7.71",
+      "eligibleDepartments": [
+        "Computer Science",
+        "Mechanical",
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D257",
+      "company": "Accenture",
+      "date": "2025-05-06",
+      "minCGPA": "6.83",
+      "eligibleDepartments": [
+        "Mechanical",
+        "Electronics",
+        "Computer Science",
+        "Civil",
+        "IT",
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D258",
+      "company": "Capgemini",
+      "date": "2025-07-21",
+      "minCGPA": "6.51",
+      "eligibleDepartments": [
+        "Electronics",
+        "Computer Science",
+        "IT",
+        "Mechanical",
+        "Electrical",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D259",
+      "company": "Amazon",
+      "date": "2025-05-22",
+      "minCGPA": "7.17",
+      "eligibleDepartments": [
+        "Electrical",
+        "Civil",
+        "Mechanical",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D260",
+      "company": "Microsoft",
+      "date": "2025-04-03",
+      "minCGPA": "6.77",
+      "eligibleDepartments": [
+        "Mechanical",
+        "Electrical",
+        "Electronics",
+        "Computer Science",
+        "IT",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D261",
+      "company": "Accenture",
+      "date": "2025-06-08",
+      "minCGPA": "6.52",
+      "eligibleDepartments": [
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D262",
+      "company": "Microsoft",
+      "date": "2025-06-25",
+      "minCGPA": "7.14",
+      "eligibleDepartments": [
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D263",
+      "company": "Microsoft",
+      "date": "2025-03-26",
+      "minCGPA": "7.89",
+      "eligibleDepartments": [
+        "Civil",
+        "Mechanical",
+        "Computer Science",
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D264",
+      "company": "Amazon",
+      "date": "2025-03-17",
+      "minCGPA": "6.73",
+      "eligibleDepartments": [
+        "Civil",
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D265",
+      "company": "TCS",
+      "date": "2025-05-24",
+      "minCGPA": "7.54",
+      "eligibleDepartments": [
+        "Computer Science",
+        "Civil",
+        "Electronics",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D266",
+      "company": "TCS",
+      "date": "2025-05-26",
+      "minCGPA": "6.87",
+      "eligibleDepartments": [
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D267",
+      "company": "Amazon",
+      "date": "2025-06-04",
+      "minCGPA": "7.78",
+      "eligibleDepartments": [
+        "Electronics",
+        "Computer Science",
+        "Mechanical",
+        "Electrical",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D268",
+      "company": "Infosys",
+      "date": "2025-03-13",
+      "minCGPA": "6.90",
+      "eligibleDepartments": [
+        "Electronics",
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D269",
+      "company": "Accenture",
+      "date": "2025-05-09",
+      "minCGPA": "7.26",
+      "eligibleDepartments": [
+        "IT",
+        "Computer Science",
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D270",
+      "company": "Wipro",
+      "date": "2025-03-13",
+      "minCGPA": "6.20",
+      "eligibleDepartments": [
+        "Electrical",
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D271",
+      "company": "Amazon",
+      "date": "2025-06-19",
+      "minCGPA": "7.37",
+      "eligibleDepartments": [
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D272",
+      "company": "Google",
+      "date": "2025-02-08",
+      "minCGPA": "6.45",
+      "eligibleDepartments": [
+        "Electronics",
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D273",
+      "company": "Capgemini",
+      "date": "2025-07-16",
+      "minCGPA": "7.15",
+      "eligibleDepartments": [
+        "Electronics",
+        "IT",
+        "Computer Science",
+        "Electrical",
+        "Civil",
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D274",
+      "company": "Infosys",
+      "date": "2025-06-02",
+      "minCGPA": "6.94",
+      "eligibleDepartments": [
+        "Civil",
+        "Mechanical",
+        "Electrical",
+        "Computer Science",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D275",
+      "company": "Microsoft",
+      "date": "2025-04-22",
+      "minCGPA": "6.65",
+      "eligibleDepartments": [
+        "Computer Science",
+        "Electrical",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D276",
+      "company": "TCS",
+      "date": "2025-02-04",
+      "minCGPA": "6.08",
+      "eligibleDepartments": [
+        "Mechanical",
+        "Electronics",
+        "Computer Science",
+        "IT",
+        "Civil",
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D277",
+      "company": "TCS",
+      "date": "2025-05-04",
+      "minCGPA": "6.17",
+      "eligibleDepartments": [
+        "IT",
+        "Electronics",
+        "Civil",
+        "Mechanical",
+        "Electrical",
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D278",
+      "company": "Amazon",
+      "date": "2025-03-22",
+      "minCGPA": "6.76",
+      "eligibleDepartments": [
+        "Electrical",
+        "Civil",
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D279",
+      "company": "TCS",
+      "date": "2025-05-08",
+      "minCGPA": "7.20",
+      "eligibleDepartments": [
+        "Civil",
+        "Electrical",
+        "Mechanical",
+        "Electronics",
+        "Computer Science",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D280",
+      "company": "Capgemini",
+      "date": "2025-03-02",
+      "minCGPA": "7.11",
+      "eligibleDepartments": [
+        "Electrical",
+        "Civil",
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D281",
+      "company": "Amazon",
+      "date": "2025-06-01",
+      "minCGPA": "7.14",
+      "eligibleDepartments": [
+        "Electronics",
+        "Electrical",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D282",
+      "company": "Capgemini",
+      "date": "2025-02-18",
+      "minCGPA": "6.31",
+      "eligibleDepartments": [
+        "IT",
+        "Computer Science",
+        "Electronics",
+        "Electrical",
+        "Civil",
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D283",
+      "company": "Microsoft",
+      "date": "2025-05-23",
+      "minCGPA": "6.85",
+      "eligibleDepartments": [
+        "Electronics",
+        "Computer Science",
+        "IT",
+        "Civil",
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D284",
+      "company": "Microsoft",
+      "date": "2025-05-07",
+      "minCGPA": "7.88",
+      "eligibleDepartments": [
+        "Mechanical",
+        "Civil",
+        "Electrical",
+        "IT",
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D285",
+      "company": "Tesla",
+      "date": "2025-02-07",
+      "minCGPA": "6.64",
+      "eligibleDepartments": [
+        "Electronics",
+        "Electrical",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D286",
+      "company": "Amazon",
+      "date": "2025-04-26",
+      "minCGPA": "6.41",
+      "eligibleDepartments": [
+        "Civil",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D287",
+      "company": "TCS",
+      "date": "2025-04-07",
+      "minCGPA": "6.51",
+      "eligibleDepartments": [
+        "Computer Science",
+        "Electronics",
+        "Civil",
+        "IT",
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D288",
+      "company": "TCS",
+      "date": "2025-02-01",
+      "minCGPA": "6.24",
+      "eligibleDepartments": [
+        "Civil",
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D289",
+      "company": "Infosys",
+      "date": "2025-02-16",
+      "minCGPA": "7.48",
+      "eligibleDepartments": [
+        "Mechanical",
+        "Computer Science",
+        "Electrical",
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D290",
+      "company": "Infosys",
+      "date": "2025-07-27",
+      "minCGPA": "6.91",
+      "eligibleDepartments": [
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D291",
+      "company": "Infosys",
+      "date": "2025-04-28",
+      "minCGPA": "7.56",
+      "eligibleDepartments": [
+        "Electronics",
+        "Mechanical",
+        "Computer Science",
+        "IT",
+        "Civil",
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D292",
+      "company": "Capgemini",
+      "date": "2025-03-04",
+      "minCGPA": "7.70",
+      "eligibleDepartments": [
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D293",
+      "company": "Accenture",
+      "date": "2025-07-10",
+      "minCGPA": "6.43",
+      "eligibleDepartments": [
+        "Computer Science",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D294",
+      "company": "Amazon",
+      "date": "2025-06-04",
+      "minCGPA": "7.68",
+      "eligibleDepartments": [
+        "Electrical",
+        "Computer Science",
+        "Mechanical",
+        "IT",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D295",
+      "company": "Accenture",
+      "date": "2025-05-03",
+      "minCGPA": "6.54",
+      "eligibleDepartments": [
+        "IT",
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D296",
+      "company": "Infosys",
+      "date": "2025-07-10",
+      "minCGPA": "6.13",
+      "eligibleDepartments": [
+        "Mechanical",
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D297",
+      "company": "Accenture",
+      "date": "2025-06-07",
+      "minCGPA": "6.15",
+      "eligibleDepartments": [
+        "Electrical",
+        "Civil",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D298",
+      "company": "Wipro",
+      "date": "2025-06-07",
+      "minCGPA": "7.82",
+      "eligibleDepartments": [
+        "IT",
+        "Civil",
+        "Electronics",
+        "Electrical",
+        "Mechanical",
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D299",
+      "company": "Capgemini",
+      "date": "2025-07-05",
+      "minCGPA": "7.18",
+      "eligibleDepartments": [
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D300",
+      "company": "Infosys",
+      "date": "2025-06-22",
+      "minCGPA": "6.03",
+      "eligibleDepartments": [
+        "Electrical",
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D301",
+      "company": "Infosys",
+      "date": "2025-03-08",
+      "minCGPA": "6.59",
+      "eligibleDepartments": [
+        "Electronics",
+        "Electrical",
+        "Civil",
+        "IT",
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D302",
+      "company": "Infosys",
+      "date": "2025-02-28",
+      "minCGPA": "7.72",
+      "eligibleDepartments": [
+        "Electronics",
+        "Mechanical",
+        "IT",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D303",
+      "company": "Infosys",
+      "date": "2025-05-25",
+      "minCGPA": "6.94",
+      "eligibleDepartments": [
+        "Electronics",
+        "Mechanical",
+        "IT",
+        "Computer Science",
+        "Civil",
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D304",
+      "company": "Capgemini",
+      "date": "2025-05-09",
+      "minCGPA": "6.48",
+      "eligibleDepartments": [
+        "Computer Science",
+        "IT",
+        "Electrical",
+        "Civil",
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D305",
+      "company": "Cognizant",
+      "date": "2025-06-13",
+      "minCGPA": "6.32",
+      "eligibleDepartments": [
+        "Civil",
+        "IT",
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D306",
+      "company": "Infosys",
+      "date": "2025-02-19",
+      "minCGPA": "6.56",
+      "eligibleDepartments": [
+        "IT",
+        "Computer Science",
+        "Electronics",
+        "Civil",
+        "Electrical",
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D307",
+      "company": "Google",
+      "date": "2025-07-23",
+      "minCGPA": "6.99",
+      "eligibleDepartments": [
+        "Electrical",
+        "Civil",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D308",
+      "company": "Amazon",
+      "date": "2025-03-21",
+      "minCGPA": "6.06",
+      "eligibleDepartments": [
+        "Electronics",
+        "Electrical",
+        "IT",
+        "Computer Science",
+        "Civil",
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D309",
+      "company": "Microsoft",
+      "date": "2025-03-22",
+      "minCGPA": "7.67",
+      "eligibleDepartments": [
+        "Computer Science",
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D310",
+      "company": "Microsoft",
+      "date": "2025-06-08",
+      "minCGPA": "6.66",
+      "eligibleDepartments": [
+        "Electronics",
+        "Computer Science",
+        "Mechanical",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D311",
+      "company": "Wipro",
+      "date": "2025-04-24",
+      "minCGPA": "6.65",
+      "eligibleDepartments": [
+        "IT",
+        "Mechanical",
+        "Electrical",
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D312",
+      "company": "Capgemini",
+      "date": "2025-05-04",
+      "minCGPA": "6.07",
+      "eligibleDepartments": [
+        "Electrical",
+        "Mechanical",
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D313",
+      "company": "Cognizant",
+      "date": "2025-04-16",
+      "minCGPA": "7.74",
+      "eligibleDepartments": [
+        "Electronics",
+        "Mechanical",
+        "Civil",
+        "IT",
+        "Electrical",
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D314",
+      "company": "Wipro",
+      "date": "2025-04-26",
+      "minCGPA": "6.15",
+      "eligibleDepartments": [
+        "IT",
+        "Electronics",
+        "Mechanical",
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D315",
+      "company": "TCS",
+      "date": "2025-04-11",
+      "minCGPA": "7.54",
+      "eligibleDepartments": [
+        "Civil",
+        "Electrical",
+        "Mechanical",
+        "Electronics",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D316",
+      "company": "Google",
+      "date": "2025-02-03",
+      "minCGPA": "6.82",
+      "eligibleDepartments": [
+        "IT",
+        "Electronics",
+        "Electrical",
+        "Civil",
+        "Computer Science",
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D317",
+      "company": "Google",
+      "date": "2025-02-21",
+      "minCGPA": "6.88",
+      "eligibleDepartments": [
+        "Mechanical",
+        "Computer Science",
+        "Civil",
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D318",
+      "company": "Tesla",
+      "date": "2025-03-06",
+      "minCGPA": "7.52",
+      "eligibleDepartments": [
+        "Mechanical",
+        "Computer Science",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D319",
+      "company": "Amazon",
+      "date": "2025-03-25",
+      "minCGPA": "6.71",
+      "eligibleDepartments": [
+        "Computer Science",
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D320",
+      "company": "Capgemini",
+      "date": "2025-07-21",
+      "minCGPA": "7.97",
+      "eligibleDepartments": [
+        "IT",
+        "Electrical",
+        "Electronics",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D321",
+      "company": "TCS",
+      "date": "2025-05-11",
+      "minCGPA": "7.55",
+      "eligibleDepartments": [
+        "IT",
+        "Computer Science",
+        "Electronics",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D322",
+      "company": "Amazon",
+      "date": "2025-03-04",
+      "minCGPA": "6.82",
+      "eligibleDepartments": [
+        "Civil",
+        "Electronics",
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D323",
+      "company": "Wipro",
+      "date": "2025-05-07",
+      "minCGPA": "7.65",
+      "eligibleDepartments": [
+        "IT",
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D324",
+      "company": "TCS",
+      "date": "2025-06-21",
+      "minCGPA": "7.20",
+      "eligibleDepartments": [
+        "Electronics",
+        "IT",
+        "Computer Science",
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D325",
+      "company": "Capgemini",
+      "date": "2025-05-20",
+      "minCGPA": "7.14",
+      "eligibleDepartments": [
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D326",
+      "company": "TCS",
+      "date": "2025-03-16",
+      "minCGPA": "6.92",
+      "eligibleDepartments": [
+        "IT",
+        "Electrical",
+        "Mechanical",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D327",
+      "company": "TCS",
+      "date": "2025-03-06",
+      "minCGPA": "7.49",
+      "eligibleDepartments": [
+        "Civil",
+        "IT",
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D328",
+      "company": "Infosys",
+      "date": "2025-02-20",
+      "minCGPA": "7.44",
+      "eligibleDepartments": [
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D329",
+      "company": "Cognizant",
+      "date": "2025-05-20",
+      "minCGPA": "6.80",
+      "eligibleDepartments": [
+        "Electronics",
+        "Civil",
+        "IT",
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D330",
+      "company": "TCS",
+      "date": "2025-06-06",
+      "minCGPA": "7.65",
+      "eligibleDepartments": [
+        "Mechanical",
+        "IT",
+        "Electrical",
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D331",
+      "company": "Google",
+      "date": "2025-02-21",
+      "minCGPA": "7.54",
+      "eligibleDepartments": [
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D332",
+      "company": "Accenture",
+      "date": "2025-05-06",
+      "minCGPA": "6.25",
+      "eligibleDepartments": [
+        "Civil",
+        "Mechanical",
+        "Computer Science",
+        "Electronics",
+        "Electrical",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D333",
+      "company": "Tesla",
+      "date": "2025-06-04",
+      "minCGPA": "6.03",
+      "eligibleDepartments": [
+        "Mechanical",
+        "Electronics",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D334",
+      "company": "Capgemini",
+      "date": "2025-03-20",
+      "minCGPA": "7.63",
+      "eligibleDepartments": [
+        "Electrical",
+        "Mechanical",
+        "Electronics",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D335",
+      "company": "Wipro",
+      "date": "2025-02-24",
+      "minCGPA": "6.11",
+      "eligibleDepartments": [
+        "Civil",
+        "Computer Science",
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D336",
+      "company": "Cognizant",
+      "date": "2025-07-14",
+      "minCGPA": "6.94",
+      "eligibleDepartments": [
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D337",
+      "company": "Cognizant",
+      "date": "2025-04-17",
+      "minCGPA": "6.72",
+      "eligibleDepartments": [
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D338",
+      "company": "Infosys",
+      "date": "2025-04-07",
+      "minCGPA": "6.62",
+      "eligibleDepartments": [
+        "Mechanical",
+        "Electronics",
+        "Electrical",
+        "Civil",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D339",
+      "company": "Tesla",
+      "date": "2025-05-15",
+      "minCGPA": "7.62",
+      "eligibleDepartments": [
+        "Computer Science",
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D340",
+      "company": "Cognizant",
+      "date": "2025-03-13",
+      "minCGPA": "7.20",
+      "eligibleDepartments": [
+        "Mechanical",
+        "Electronics",
+        "Computer Science",
+        "Civil",
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D341",
+      "company": "Amazon",
+      "date": "2025-07-28",
+      "minCGPA": "7.81",
+      "eligibleDepartments": [
+        "Computer Science",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D342",
+      "company": "Accenture",
+      "date": "2025-07-11",
+      "minCGPA": "6.97",
+      "eligibleDepartments": [
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D343",
+      "company": "Google",
+      "date": "2025-07-06",
+      "minCGPA": "7.14",
+      "eligibleDepartments": [
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D344",
+      "company": "Google",
+      "date": "2025-07-02",
+      "minCGPA": "6.21",
+      "eligibleDepartments": [
+        "Civil",
+        "Electrical",
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D345",
+      "company": "Accenture",
+      "date": "2025-03-21",
+      "minCGPA": "7.69",
+      "eligibleDepartments": [
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D346",
+      "company": "Microsoft",
+      "date": "2025-02-05",
+      "minCGPA": "6.61",
+      "eligibleDepartments": [
+        "Computer Science",
+        "Mechanical",
+        "Electronics",
+        "IT",
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D347",
+      "company": "Google",
+      "date": "2025-04-17",
+      "minCGPA": "7.96",
+      "eligibleDepartments": [
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D348",
+      "company": "Infosys",
+      "date": "2025-02-02",
+      "minCGPA": "6.85",
+      "eligibleDepartments": [
+        "Computer Science",
+        "Electronics",
+        "Electrical",
+        "IT",
+        "Mechanical",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D349",
+      "company": "Cognizant",
+      "date": "2025-07-10",
+      "minCGPA": "6.68",
+      "eligibleDepartments": [
+        "Civil",
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D350",
+      "company": "Cognizant",
+      "date": "2025-04-10",
+      "minCGPA": "6.38",
+      "eligibleDepartments": [
+        "IT",
+        "Electronics",
+        "Civil",
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D351",
+      "company": "Capgemini",
+      "date": "2025-06-18",
+      "minCGPA": "7.90",
+      "eligibleDepartments": [
+        "IT",
+        "Electrical",
+        "Electronics",
+        "Computer Science",
+        "Mechanical",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D352",
+      "company": "Wipro",
+      "date": "2025-06-19",
+      "minCGPA": "6.72",
+      "eligibleDepartments": [
+        "Computer Science",
+        "Electrical",
+        "Civil",
+        "Mechanical",
+        "Electronics",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D353",
+      "company": "Capgemini",
+      "date": "2025-03-21",
+      "minCGPA": "6.30",
+      "eligibleDepartments": [
+        "Computer Science",
+        "Electronics",
+        "Electrical",
+        "Mechanical",
+        "IT",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D354",
+      "company": "Amazon",
+      "date": "2025-05-18",
+      "minCGPA": "6.17",
+      "eligibleDepartments": [
+        "Computer Science",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D355",
+      "company": "Accenture",
+      "date": "2025-04-21",
+      "minCGPA": "7.66",
+      "eligibleDepartments": [
+        "IT",
+        "Electronics",
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D356",
+      "company": "Tesla",
+      "date": "2025-06-21",
+      "minCGPA": "7.25",
+      "eligibleDepartments": [
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D357",
+      "company": "Cognizant",
+      "date": "2025-03-25",
+      "minCGPA": "7.57",
+      "eligibleDepartments": [
+        "Mechanical",
+        "Computer Science",
+        "Civil",
+        "Electronics",
+        "IT",
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D358",
+      "company": "Accenture",
+      "date": "2025-02-22",
+      "minCGPA": "6.59",
+      "eligibleDepartments": [
+        "Civil",
+        "IT",
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D359",
+      "company": "Tesla",
+      "date": "2025-02-07",
+      "minCGPA": "7.10",
+      "eligibleDepartments": [
+        "Computer Science",
+        "Civil",
+        "IT",
+        "Mechanical",
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D360",
+      "company": "Capgemini",
+      "date": "2025-03-03",
+      "minCGPA": "7.53",
+      "eligibleDepartments": [
+        "Electronics",
+        "Electrical",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D361",
+      "company": "Capgemini",
+      "date": "2025-04-15",
+      "minCGPA": "6.55",
+      "eligibleDepartments": [
+        "Civil",
+        "Electrical",
+        "Electronics",
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D362",
+      "company": "Microsoft",
+      "date": "2025-05-06",
+      "minCGPA": "7.81",
+      "eligibleDepartments": [
+        "Mechanical",
+        "Computer Science",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D363",
+      "company": "Wipro",
+      "date": "2025-03-13",
+      "minCGPA": "6.04",
+      "eligibleDepartments": [
+        "Civil",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D364",
+      "company": "Microsoft",
+      "date": "2025-06-22",
+      "minCGPA": "7.73",
+      "eligibleDepartments": [
+        "Civil",
+        "IT",
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D365",
+      "company": "TCS",
+      "date": "2025-02-15",
+      "minCGPA": "7.45",
+      "eligibleDepartments": [
+        "Electrical",
+        "Mechanical",
+        "Computer Science",
+        "Electronics",
+        "IT",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D366",
+      "company": "Tesla",
+      "date": "2025-06-15",
+      "minCGPA": "7.56",
+      "eligibleDepartments": [
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D367",
+      "company": "Google",
+      "date": "2025-05-22",
+      "minCGPA": "7.81",
+      "eligibleDepartments": [
+        "Civil",
+        "Mechanical",
+        "IT",
+        "Electronics",
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D368",
+      "company": "Tesla",
+      "date": "2025-03-21",
+      "minCGPA": "6.19",
+      "eligibleDepartments": [
+        "Civil",
+        "Mechanical",
+        "IT",
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D369",
+      "company": "Tesla",
+      "date": "2025-05-10",
+      "minCGPA": "7.78",
+      "eligibleDepartments": [
+        "Computer Science",
+        "IT",
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D370",
+      "company": "Google",
+      "date": "2025-06-22",
+      "minCGPA": "7.27",
+      "eligibleDepartments": [
+        "IT",
+        "Computer Science",
+        "Civil",
+        "Electronics",
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D371",
+      "company": "TCS",
+      "date": "2025-07-06",
+      "minCGPA": "7.34",
+      "eligibleDepartments": [
+        "IT",
+        "Computer Science",
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D372",
+      "company": "Cognizant",
+      "date": "2025-07-19",
+      "minCGPA": "7.73",
+      "eligibleDepartments": [
+        "Civil",
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D373",
+      "company": "Wipro",
+      "date": "2025-03-05",
+      "minCGPA": "7.10",
+      "eligibleDepartments": [
+        "Civil",
+        "Electronics",
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D374",
+      "company": "Infosys",
+      "date": "2025-03-13",
+      "minCGPA": "6.29",
+      "eligibleDepartments": [
+        "Civil",
+        "Electronics",
+        "Mechanical",
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D375",
+      "company": "Cognizant",
+      "date": "2025-06-23",
+      "minCGPA": "6.65",
+      "eligibleDepartments": [
+        "Mechanical",
+        "IT",
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D376",
+      "company": "TCS",
+      "date": "2025-07-27",
+      "minCGPA": "6.29",
+      "eligibleDepartments": [
+        "Mechanical",
+        "IT",
+        "Electrical",
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D377",
+      "company": "Cognizant",
+      "date": "2025-03-20",
+      "minCGPA": "6.33",
+      "eligibleDepartments": [
+        "Mechanical",
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D378",
+      "company": "Google",
+      "date": "2025-06-08",
+      "minCGPA": "6.13",
+      "eligibleDepartments": [
+        "Mechanical",
+        "Electronics",
+        "Computer Science",
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D379",
+      "company": "Wipro",
+      "date": "2025-07-22",
+      "minCGPA": "6.50",
+      "eligibleDepartments": [
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D380",
+      "company": "Microsoft",
+      "date": "2025-04-27",
+      "minCGPA": "6.59",
+      "eligibleDepartments": [
+        "Electrical",
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D381",
+      "company": "Microsoft",
+      "date": "2025-04-14",
+      "minCGPA": "6.92",
+      "eligibleDepartments": [
+        "Civil",
+        "Computer Science",
+        "Mechanical",
+        "IT",
+        "Electronics",
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D382",
+      "company": "Google",
+      "date": "2025-06-26",
+      "minCGPA": "6.04",
+      "eligibleDepartments": [
+        "Computer Science",
+        "Electrical",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D383",
+      "company": "Tesla",
+      "date": "2025-05-12",
+      "minCGPA": "7.05",
+      "eligibleDepartments": [
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D384",
+      "company": "Accenture",
+      "date": "2025-03-12",
+      "minCGPA": "6.29",
+      "eligibleDepartments": [
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D385",
+      "company": "TCS",
+      "date": "2025-06-02",
+      "minCGPA": "6.26",
+      "eligibleDepartments": [
+        "Civil",
+        "Electronics",
+        "Computer Science",
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D386",
+      "company": "Microsoft",
+      "date": "2025-06-24",
+      "minCGPA": "6.05",
+      "eligibleDepartments": [
+        "Electronics",
+        "Mechanical",
+        "IT",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D387",
+      "company": "TCS",
+      "date": "2025-04-09",
+      "minCGPA": "6.08",
+      "eligibleDepartments": [
+        "Mechanical",
+        "IT",
+        "Electronics",
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D388",
+      "company": "Accenture",
+      "date": "2025-02-02",
+      "minCGPA": "7.46",
+      "eligibleDepartments": [
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D389",
+      "company": "Tesla",
+      "date": "2025-03-14",
+      "minCGPA": "6.97",
+      "eligibleDepartments": [
+        "Civil",
+        "Electrical",
+        "IT",
+        "Computer Science",
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D390",
+      "company": "Accenture",
+      "date": "2025-03-15",
+      "minCGPA": "7.50",
+      "eligibleDepartments": [
+        "Civil",
+        "Computer Science",
+        "Mechanical",
+        "Electrical",
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D391",
+      "company": "Wipro",
+      "date": "2025-04-15",
+      "minCGPA": "7.21",
+      "eligibleDepartments": [
+        "Computer Science",
+        "Civil",
+        "IT",
+        "Electronics",
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D392",
+      "company": "Cognizant",
+      "date": "2025-05-04",
+      "minCGPA": "7.07",
+      "eligibleDepartments": [
+        "Computer Science",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D393",
+      "company": "TCS",
+      "date": "2025-05-06",
+      "minCGPA": "6.22",
+      "eligibleDepartments": [
+        "Computer Science",
+        "Civil",
+        "Electronics",
+        "Electrical",
+        "IT",
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D394",
+      "company": "Microsoft",
+      "date": "2025-05-10",
+      "minCGPA": "7.01",
+      "eligibleDepartments": [
+        "Computer Science",
+        "Civil",
+        "Mechanical",
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D395",
+      "company": "Cognizant",
+      "date": "2025-04-08",
+      "minCGPA": "7.75",
+      "eligibleDepartments": [
+        "Electronics",
+        "Mechanical",
+        "IT",
+        "Electrical",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D396",
+      "company": "Amazon",
+      "date": "2025-02-09",
+      "minCGPA": "6.67",
+      "eligibleDepartments": [
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D397",
+      "company": "Infosys",
+      "date": "2025-04-04",
+      "minCGPA": "6.59",
+      "eligibleDepartments": [
+        "IT",
+        "Electrical",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D398",
+      "company": "Capgemini",
+      "date": "2025-03-02",
+      "minCGPA": "6.31",
+      "eligibleDepartments": [
+        "Mechanical",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D399",
+      "company": "TCS",
+      "date": "2025-02-23",
+      "minCGPA": "7.81",
+      "eligibleDepartments": [
+        "Mechanical",
+        "IT",
+        "Electrical",
+        "Electronics",
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D400",
+      "company": "Capgemini",
+      "date": "2025-02-28",
+      "minCGPA": "7.53",
+      "eligibleDepartments": [
+        "IT",
+        "Electrical",
+        "Mechanical",
+        "Electronics",
+        "Computer Science",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D401",
+      "company": "Tesla",
+      "date": "2025-07-23",
+      "minCGPA": "7.76",
+      "eligibleDepartments": [
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D402",
+      "company": "TCS",
+      "date": "2025-02-11",
+      "minCGPA": "7.35",
+      "eligibleDepartments": [
+        "Electronics",
+        "Electrical",
+        "Mechanical",
+        "IT",
+        "Computer Science",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D403",
+      "company": "Amazon",
+      "date": "2025-06-19",
+      "minCGPA": "7.98",
+      "eligibleDepartments": [
+        "Computer Science",
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D404",
+      "company": "Cognizant",
+      "date": "2025-05-21",
+      "minCGPA": "7.63",
+      "eligibleDepartments": [
+        "Computer Science",
+        "Electronics",
+        "Electrical",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D405",
+      "company": "Accenture",
+      "date": "2025-03-09",
+      "minCGPA": "6.38",
+      "eligibleDepartments": [
+        "IT",
+        "Mechanical",
+        "Civil",
+        "Electrical",
+        "Electronics",
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D406",
+      "company": "Tesla",
+      "date": "2025-02-13",
+      "minCGPA": "7.94",
+      "eligibleDepartments": [
+        "IT",
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D407",
+      "company": "Capgemini",
+      "date": "2025-04-08",
+      "minCGPA": "6.10",
+      "eligibleDepartments": [
+        "IT",
+        "Mechanical",
+        "Computer Science",
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D408",
+      "company": "Accenture",
+      "date": "2025-05-02",
+      "minCGPA": "6.95",
+      "eligibleDepartments": [
+        "Mechanical",
+        "Electrical",
+        "Electronics",
+        "Civil",
+        "Computer Science",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D409",
+      "company": "Cognizant",
+      "date": "2025-02-08",
+      "minCGPA": "6.93",
+      "eligibleDepartments": [
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D410",
+      "company": "TCS",
+      "date": "2025-04-01",
+      "minCGPA": "7.10",
+      "eligibleDepartments": [
+        "Civil",
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D411",
+      "company": "Google",
+      "date": "2025-03-01",
+      "minCGPA": "6.26",
+      "eligibleDepartments": [
+        "IT",
+        "Electrical",
+        "Mechanical",
+        "Electronics",
+        "Civil",
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D412",
+      "company": "Accenture",
+      "date": "2025-06-08",
+      "minCGPA": "6.36",
+      "eligibleDepartments": [
+        "Computer Science",
+        "Civil",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D413",
+      "company": "Capgemini",
+      "date": "2025-03-13",
+      "minCGPA": "7.96",
+      "eligibleDepartments": [
+        "Electronics",
+        "Computer Science",
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D414",
+      "company": "Infosys",
+      "date": "2025-04-13",
+      "minCGPA": "7.72",
+      "eligibleDepartments": [
+        "Mechanical",
+        "Civil",
+        "Electronics",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D415",
+      "company": "TCS",
+      "date": "2025-06-21",
+      "minCGPA": "6.65",
+      "eligibleDepartments": [
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D416",
+      "company": "Accenture",
+      "date": "2025-05-10",
+      "minCGPA": "7.50",
+      "eligibleDepartments": [
+        "Computer Science",
+        "IT",
+        "Civil",
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D417",
+      "company": "Google",
+      "date": "2025-06-08",
+      "minCGPA": "7.44",
+      "eligibleDepartments": [
+        "IT",
+        "Computer Science",
+        "Civil",
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D418",
+      "company": "TCS",
+      "date": "2025-06-09",
+      "minCGPA": "6.06",
+      "eligibleDepartments": [
+        "IT",
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D419",
+      "company": "Infosys",
+      "date": "2025-05-28",
+      "minCGPA": "7.19",
+      "eligibleDepartments": [
+        "IT",
+        "Electronics",
+        "Civil",
+        "Computer Science",
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D420",
+      "company": "Infosys",
+      "date": "2025-05-02",
+      "minCGPA": "7.80",
+      "eligibleDepartments": [
+        "IT",
+        "Electronics",
+        "Mechanical",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D421",
+      "company": "Accenture",
+      "date": "2025-05-23",
+      "minCGPA": "6.88",
+      "eligibleDepartments": [
+        "Electrical",
+        "Electronics",
+        "IT",
+        "Civil",
+        "Computer Science",
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D422",
+      "company": "Cognizant",
+      "date": "2025-02-22",
+      "minCGPA": "6.07",
+      "eligibleDepartments": [
+        "IT",
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D423",
+      "company": "TCS",
+      "date": "2025-05-12",
+      "minCGPA": "6.87",
+      "eligibleDepartments": [
+        "Computer Science",
+        "Mechanical",
+        "Electrical",
+        "Civil",
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D424",
+      "company": "Tesla",
+      "date": "2025-06-18",
+      "minCGPA": "6.12",
+      "eligibleDepartments": [
+        "Electrical",
+        "Mechanical",
+        "Electronics",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D425",
+      "company": "Accenture",
+      "date": "2025-04-03",
+      "minCGPA": "6.32",
+      "eligibleDepartments": [
+        "Civil",
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D426",
+      "company": "Capgemini",
+      "date": "2025-03-26",
+      "minCGPA": "7.83",
+      "eligibleDepartments": [
+        "Civil",
+        "IT",
+        "Electrical",
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D427",
+      "company": "Infosys",
+      "date": "2025-02-15",
+      "minCGPA": "7.84",
+      "eligibleDepartments": [
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D428",
+      "company": "Infosys",
+      "date": "2025-04-16",
+      "minCGPA": "7.87",
+      "eligibleDepartments": [
+        "Electronics",
+        "Civil",
+        "Mechanical",
+        "Electrical",
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D429",
+      "company": "Microsoft",
+      "date": "2025-02-08",
+      "minCGPA": "7.27",
+      "eligibleDepartments": [
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D430",
+      "company": "TCS",
+      "date": "2025-02-22",
+      "minCGPA": "6.57",
+      "eligibleDepartments": [
+        "Civil",
+        "Electronics",
+        "IT",
+        "Computer Science",
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D431",
+      "company": "Microsoft",
+      "date": "2025-04-18",
+      "minCGPA": "6.27",
+      "eligibleDepartments": [
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D432",
+      "company": "Cognizant",
+      "date": "2025-02-14",
+      "minCGPA": "6.81",
+      "eligibleDepartments": [
+        "IT",
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D433",
+      "company": "Capgemini",
+      "date": "2025-02-13",
+      "minCGPA": "7.67",
+      "eligibleDepartments": [
+        "Electrical",
+        "Mechanical",
+        "IT",
+        "Electronics",
+        "Civil",
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D434",
+      "company": "Microsoft",
+      "date": "2025-02-17",
+      "minCGPA": "7.64",
+      "eligibleDepartments": [
+        "IT",
+        "Mechanical",
+        "Electronics",
+        "Electrical",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D435",
+      "company": "Tesla",
+      "date": "2025-05-16",
+      "minCGPA": "6.76",
+      "eligibleDepartments": [
+        "IT",
+        "Mechanical",
+        "Civil",
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D436",
+      "company": "Google",
+      "date": "2025-05-20",
+      "minCGPA": "6.13",
+      "eligibleDepartments": [
+        "Electronics",
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D437",
+      "company": "Amazon",
+      "date": "2025-07-17",
+      "minCGPA": "7.68",
+      "eligibleDepartments": [
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D438",
+      "company": "Tesla",
+      "date": "2025-03-28",
+      "minCGPA": "7.84",
+      "eligibleDepartments": [
+        "Electrical",
+        "IT",
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D439",
+      "company": "Google",
+      "date": "2025-04-09",
+      "minCGPA": "7.48",
+      "eligibleDepartments": [
+        "Civil",
+        "Electronics",
+        "Computer Science",
+        "Mechanical",
+        "IT",
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D440",
+      "company": "Amazon",
+      "date": "2025-05-16",
+      "minCGPA": "6.27",
+      "eligibleDepartments": [
+        "Mechanical",
+        "IT",
+        "Computer Science",
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D441",
+      "company": "Tesla",
+      "date": "2025-04-10",
+      "minCGPA": "7.64",
+      "eligibleDepartments": [
+        "Computer Science",
+        "IT",
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D442",
+      "company": "Microsoft",
+      "date": "2025-07-24",
+      "minCGPA": "7.56",
+      "eligibleDepartments": [
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D443",
+      "company": "Cognizant",
+      "date": "2025-02-21",
+      "minCGPA": "7.84",
+      "eligibleDepartments": [
+        "Mechanical",
+        "Electronics",
+        "IT",
+        "Computer Science",
+        "Electrical",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D444",
+      "company": "Accenture",
+      "date": "2025-03-09",
+      "minCGPA": "6.91",
+      "eligibleDepartments": [
+        "Mechanical",
+        "Civil",
+        "Electronics",
+        "IT",
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D445",
+      "company": "TCS",
+      "date": "2025-02-21",
+      "minCGPA": "7.45",
+      "eligibleDepartments": [
+        "Mechanical",
+        "IT",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D446",
+      "company": "TCS",
+      "date": "2025-06-24",
+      "minCGPA": "6.15",
+      "eligibleDepartments": [
+        "Computer Science",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D447",
+      "company": "Google",
+      "date": "2025-05-08",
+      "minCGPA": "6.90",
+      "eligibleDepartments": [
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D448",
+      "company": "Microsoft",
+      "date": "2025-05-20",
+      "minCGPA": "7.22",
+      "eligibleDepartments": [
+        "Civil",
+        "IT",
+        "Mechanical",
+        "Electrical",
+        "Electronics",
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D449",
+      "company": "TCS",
+      "date": "2025-05-02",
+      "minCGPA": "7.00",
+      "eligibleDepartments": [
+        "Civil",
+        "Computer Science",
+        "Electrical",
+        "Electronics",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D450",
+      "company": "Infosys",
+      "date": "2025-02-01",
+      "minCGPA": "7.42",
+      "eligibleDepartments": [
+        "Computer Science",
+        "Electrical",
+        "Mechanical",
+        "Electronics",
+        "IT",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D451",
+      "company": "Amazon",
+      "date": "2025-04-26",
+      "minCGPA": "6.33",
+      "eligibleDepartments": [
+        "Electronics",
+        "Electrical",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D452",
+      "company": "Infosys",
+      "date": "2025-04-20",
+      "minCGPA": "7.88",
+      "eligibleDepartments": [
+        "Electronics",
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D453",
+      "company": "Cognizant",
+      "date": "2025-05-05",
+      "minCGPA": "6.58",
+      "eligibleDepartments": [
+        "Mechanical",
+        "Civil",
+        "Electronics",
+        "IT",
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D454",
+      "company": "Google",
+      "date": "2025-06-20",
+      "minCGPA": "6.84",
+      "eligibleDepartments": [
+        "IT",
+        "Electrical",
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D455",
+      "company": "Accenture",
+      "date": "2025-03-03",
+      "minCGPA": "6.57",
+      "eligibleDepartments": [
+        "Computer Science",
+        "Civil",
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D456",
+      "company": "Accenture",
+      "date": "2025-04-03",
+      "minCGPA": "6.49",
+      "eligibleDepartments": [
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D457",
+      "company": "Wipro",
+      "date": "2025-07-26",
+      "minCGPA": "6.37",
+      "eligibleDepartments": [
+        "IT",
+        "Computer Science",
+        "Civil",
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D458",
+      "company": "Tesla",
+      "date": "2025-06-09",
+      "minCGPA": "7.34",
+      "eligibleDepartments": [
+        "Computer Science",
+        "Civil",
+        "IT",
+        "Electronics",
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D459",
+      "company": "Infosys",
+      "date": "2025-03-20",
+      "minCGPA": "7.19",
+      "eligibleDepartments": [
+        "IT",
+        "Computer Science",
+        "Mechanical",
+        "Electrical",
+        "Civil",
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D460",
+      "company": "Google",
+      "date": "2025-04-14",
+      "minCGPA": "6.35",
+      "eligibleDepartments": [
+        "Electrical",
+        "Civil",
+        "Mechanical",
+        "Computer Science",
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D461",
+      "company": "Accenture",
+      "date": "2025-05-21",
+      "minCGPA": "6.30",
+      "eligibleDepartments": [
+        "Civil",
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D462",
+      "company": "Cognizant",
+      "date": "2025-06-23",
+      "minCGPA": "7.87",
+      "eligibleDepartments": [
+        "Mechanical",
+        "IT",
+        "Civil",
+        "Computer Science",
+        "Electrical",
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D463",
+      "company": "Accenture",
+      "date": "2025-02-23",
+      "minCGPA": "6.11",
+      "eligibleDepartments": [
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D464",
+      "company": "Wipro",
+      "date": "2025-02-21",
+      "minCGPA": "7.62",
+      "eligibleDepartments": [
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D465",
+      "company": "Amazon",
+      "date": "2025-02-26",
+      "minCGPA": "7.43",
+      "eligibleDepartments": [
+        "Computer Science",
+        "Mechanical",
+        "Electrical",
+        "IT",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D466",
+      "company": "Accenture",
+      "date": "2025-04-17",
+      "minCGPA": "6.27",
+      "eligibleDepartments": [
+        "Computer Science",
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D467",
+      "company": "Microsoft",
+      "date": "2025-03-13",
+      "minCGPA": "6.80",
+      "eligibleDepartments": [
+        "Civil",
+        "Mechanical",
+        "IT",
+        "Computer Science",
+        "Electronics",
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D468",
+      "company": "Accenture",
+      "date": "2025-07-21",
+      "minCGPA": "7.66",
+      "eligibleDepartments": [
+        "Electronics",
+        "Electrical",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D469",
+      "company": "Wipro",
+      "date": "2025-07-04",
+      "minCGPA": "6.03",
+      "eligibleDepartments": [
+        "Electrical",
+        "Electronics",
+        "Computer Science",
+        "IT",
+        "Civil",
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D470",
+      "company": "Capgemini",
+      "date": "2025-02-12",
+      "minCGPA": "7.45",
+      "eligibleDepartments": [
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D471",
+      "company": "TCS",
+      "date": "2025-02-28",
+      "minCGPA": "6.83",
+      "eligibleDepartments": [
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D472",
+      "company": "Wipro",
+      "date": "2025-05-10",
+      "minCGPA": "6.56",
+      "eligibleDepartments": [
+        "IT",
+        "Electronics",
+        "Civil",
+        "Electrical",
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D473",
+      "company": "TCS",
+      "date": "2025-02-17",
+      "minCGPA": "6.98",
+      "eligibleDepartments": [
+        "IT",
+        "Electronics",
+        "Civil",
+        "Electrical",
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D474",
+      "company": "TCS",
+      "date": "2025-05-20",
+      "minCGPA": "6.77",
+      "eligibleDepartments": [
+        "Electronics",
+        "Mechanical",
+        "Electrical",
+        "Computer Science",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D475",
+      "company": "Wipro",
+      "date": "2025-06-01",
+      "minCGPA": "6.10",
+      "eligibleDepartments": [
+        "IT",
+        "Computer Science",
+        "Civil",
+        "Electrical",
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D476",
+      "company": "Cognizant",
+      "date": "2025-07-11",
+      "minCGPA": "7.95",
+      "eligibleDepartments": [
+        "Electronics",
+        "IT",
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D477",
+      "company": "Capgemini",
+      "date": "2025-05-19",
+      "minCGPA": "6.20",
+      "eligibleDepartments": [
+        "Electrical",
+        "Electronics",
+        "IT",
+        "Civil",
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D478",
+      "company": "Google",
+      "date": "2025-04-10",
+      "minCGPA": "6.52",
+      "eligibleDepartments": [
+        "Electrical",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D479",
+      "company": "Accenture",
+      "date": "2025-06-14",
+      "minCGPA": "6.81",
+      "eligibleDepartments": [
+        "Electronics",
+        "Mechanical",
+        "Computer Science",
+        "Civil",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D480",
+      "company": "Amazon",
+      "date": "2025-05-15",
+      "minCGPA": "6.58",
+      "eligibleDepartments": [
+        "Civil",
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D481",
+      "company": "Infosys",
+      "date": "2025-02-15",
+      "minCGPA": "6.75",
+      "eligibleDepartments": [
+        "Civil",
+        "Electronics",
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D482",
+      "company": "Capgemini",
+      "date": "2025-04-08",
+      "minCGPA": "7.25",
+      "eligibleDepartments": [
+        "Computer Science",
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D483",
+      "company": "Cognizant",
+      "date": "2025-04-28",
+      "minCGPA": "6.22",
+      "eligibleDepartments": [
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D484",
+      "company": "Infosys",
+      "date": "2025-05-21",
+      "minCGPA": "6.24",
+      "eligibleDepartments": [
+        "Electronics",
+        "Mechanical",
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D485",
+      "company": "Infosys",
+      "date": "2025-02-12",
+      "minCGPA": "6.19",
+      "eligibleDepartments": [
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D486",
+      "company": "Tesla",
+      "date": "2025-07-20",
+      "minCGPA": "7.29",
+      "eligibleDepartments": [
+        "Civil",
+        "Electrical",
+        "Electronics",
+        "Mechanical",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D487",
+      "company": "Microsoft",
+      "date": "2025-06-12",
+      "minCGPA": "6.85",
+      "eligibleDepartments": [
+        "Mechanical",
+        "Electronics",
+        "Electrical",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D488",
+      "company": "Tesla",
+      "date": "2025-04-09",
+      "minCGPA": "7.52",
+      "eligibleDepartments": [
+        "IT",
+        "Electrical",
+        "Electronics",
+        "Civil",
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D489",
+      "company": "Accenture",
+      "date": "2025-05-24",
+      "minCGPA": "6.54",
+      "eligibleDepartments": [
+        "Computer Science",
+        "Electrical",
+        "Mechanical",
+        "IT",
+        "Civil"
+      ]
+    },
+    {
+      "drive_id": "D490",
+      "company": "Cognizant",
+      "date": "2025-04-20",
+      "minCGPA": "7.34",
+      "eligibleDepartments": [
+        "Computer Science",
+        "Electrical",
+        "Electronics",
+        "Mechanical",
+        "Civil",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D491",
+      "company": "Infosys",
+      "date": "2025-07-07",
+      "minCGPA": "7.95",
+      "eligibleDepartments": [
+        "Mechanical",
+        "Electronics",
+        "Electrical",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D492",
+      "company": "Accenture",
+      "date": "2025-06-19",
+      "minCGPA": "7.78",
+      "eligibleDepartments": [
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D493",
+      "company": "Tesla",
+      "date": "2025-05-15",
+      "minCGPA": "6.36",
+      "eligibleDepartments": [
+        "Computer Science",
+        "Civil",
+        "Electronics",
+        "Mechanical"
+      ]
+    },
+    {
+      "drive_id": "D494",
+      "company": "Microsoft",
+      "date": "2025-05-15",
+      "minCGPA": "7.24",
+      "eligibleDepartments": [
+        "Electronics",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D495",
+      "company": "Infosys",
+      "date": "2025-06-09",
+      "minCGPA": "7.21",
+      "eligibleDepartments": [
+        "Electronics",
+        "IT",
+        "Mechanical",
+        "Electrical",
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D496",
+      "company": "Microsoft",
+      "date": "2025-05-27",
+      "minCGPA": "6.43",
+      "eligibleDepartments": [
+        "Computer Science",
+        "IT",
+        "Electronics",
+        "Mechanical",
+        "Electrical"
+      ]
+    },
+    {
+      "drive_id": "D497",
+      "company": "TCS",
+      "date": "2025-07-22",
+      "minCGPA": "7.85",
+      "eligibleDepartments": [
+        "Electronics",
+        "Mechanical",
+        "Electrical",
+        "Civil",
+        "IT"
+      ]
+    },
+    {
+      "drive_id": "D498",
+      "company": "TCS",
+      "date": "2025-06-22",
+      "minCGPA": "6.66",
+      "eligibleDepartments": [
+        "Mechanical",
+        "Civil",
+        "Computer Science"
+      ]
+    },
+    {
+      "drive_id": "D499",
+      "company": "Cognizant",
+      "date": "2025-03-12",
+      "minCGPA": "6.85",
+      "eligibleDepartments": [
+        "Mechanical",
+        "Civil",
+        "Electrical",
+        "Computer Science",
+        "IT",
+        "Electronics"
+      ]
+    },
+    {
+      "drive_id": "D500",
+      "company": "TCS",
+      "date": "2025-02-21",
+      "minCGPA": "7.53",
+      "eligibleDepartments": [
+        "Computer Science",
+        "Mechanical",
+        "Electronics"
+      ]
+    }
+  ]
+}
