@@ -8,15 +8,7 @@
 // import { getDatabase, set, ref } from "firebase/database"
 
 // const firebaseConfig = {
-//   apiKey: "AIzaSyCXIYvvPMbfE9E_VNSyM4fXk6rPsPuJfFE",
-//   authDomain: "college-placement-app-a75c6.firebaseapp.com",
-//   databaseURL: "https://college-placement-app-a75c6-default-rtdb.firebaseio.com",
-//   projectId: "college-placement-app-a75c6",
-//   storageBucket: "college-placement-app-a75c6.firebasestorage.app",
-//   messagingSenderId: "833144129430",
-//   appId: "1:833144129430:web:a3f5e43cae05c185027fb7",
-//   databaseURl:
-//     "https://console.firebase.google.com/u/0/project/college-placement-app-a75c6/database/college-placement-app-a75c6-default-rtdb/data/~2F",
+//   
 // };
 
 // const firebaseApp = initializeApp(firebaseConfig);
